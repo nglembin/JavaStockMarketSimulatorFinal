@@ -66,5 +66,4 @@ OBL,Obligacja Skarbowa 10Y,BOND,1000
 6. Zapisz portfel
 0. Wyjdź
 
-🧠 Autor
-Projekt edukacyjny stworzony przeze mnie w ramach nauki programowania obiektowego i Javy.
+🧠 Projekt edukacyjny stworzony przeze mnie w ramach nauki programowania obiektowego i Javy.
