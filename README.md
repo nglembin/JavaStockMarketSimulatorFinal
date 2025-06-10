@@ -20,13 +20,21 @@
 ## 📁 Struktura modułów
 
 StockMarketSimulatorFinal/
+
 ├── model/ # Klasy: Asset, Stock, Bond
+
 ├── market/ # Logika rynku i aktualizacji cen
+
 ├── portfolio/ # Portfel użytkownika i pozycje
+
 ├── persistence/ # Odczyt/zapis CSV i JSON
+
 ├── exception/ # Własne wyjątki (np. brak środków)
+
 ├── ui/ # ConsoleUI – prosty interfejs użytkownika
+
 ├── main/ # Punkt wejścia: StockMarketApp
+
 
 ## 📦 Wymagania
 
