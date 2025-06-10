@@ -46,7 +46,7 @@ StockMarketSimulatorFinal/
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/TwojNick/StockMarketSimulatorFinal.git
+   git clone https://github.com/nglembin/StockMarketSimulatorFinal.git
    cd StockMarketSimulatorFinal
 Otwórz w IntelliJ IDEA jako projekt Maven (automatycznie wykryje moduły)
 
