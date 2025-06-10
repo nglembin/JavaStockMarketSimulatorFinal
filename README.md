@@ -48,13 +48,7 @@ portfolio.json – opcjonalny, początkowy portfel (możesz usunąć)
 
 Uruchom klasę StockMarketApp z modułu main
 
-🧪 Przykładowe dane assets.csv
-symbol,name,type,price
-BTC,Bitcoin,STOCK,91000
-ETH,Ethereum,STOCK,1600
-OBL,Obligacja Skarbowa 10Y,BOND,1000
-
-⚙️ Dostępne opcje w menu
+## ⚙️ Dostępne opcje w menu
 
 == SYMULATOR GIEŁDY ==
 
@@ -66,4 +60,4 @@ OBL,Obligacja Skarbowa 10Y,BOND,1000
 6. Zapisz portfel
 0. Wyjdź
 
-🧠 Projekt edukacyjny stworzony przeze mnie w ramach nauki programowania obiektowego i Javy.
+## 🧠 Projekt edukacyjny stworzony przeze mnie w ramach nauki programowania obiektowego i Javy.
