@@ -29,7 +29,7 @@ public class StockMarketApp {
             ui.start();
 
         } catch (IOException e) {
-            System.err.println("❌ Błąd IO: " + e.getMessage());
+            System.err.println("Błąd IO: " + e.getMessage());
         }
     }
 }
